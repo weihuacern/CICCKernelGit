@@ -1,0 +1,4 @@
+ResNet50/.ipynb_checkpoints/*
+ResNet101/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
+*.csv
